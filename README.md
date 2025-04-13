@@ -20,7 +20,7 @@ This project contains two automated test cases written using [Playwright](https:
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Language:** JavaScript
 - **Framework:** Playwright
@@ -29,7 +29,7 @@ This project contains two automated test cases written using [Playwright](https:
 
 ---
 
-## 🛠 How to Run the Tests
+## How to Run the Tests
 
 1. **Install dependencies**  
    Run this in the terminal:
